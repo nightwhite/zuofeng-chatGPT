@@ -1,0 +1,5 @@
+name: send
+methods:
+  - GET
+  - POST
+tags: []
