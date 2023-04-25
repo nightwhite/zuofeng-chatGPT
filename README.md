@@ -6,7 +6,6 @@
 
 ```shell
 git clone https://github.com/nightwhite/zuofeng-chatGPT.git
-git checkout night-gpt
 ```
 
 ## 安装依赖
